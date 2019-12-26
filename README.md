@@ -1,1 +1,3 @@
 # karthik-bz-week2
+
+MEAN FULL STACK DEVELOPMENT - WEEK 2
