@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/KarthikSarraju1901/karthik-bz-week2#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
